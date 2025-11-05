@@ -1,0 +1,39 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.7"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "3207a78e80abbd9773e4ff7b4c2b09f0",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "syntax",
+          "evalue": "line 1\n    import marimo as mo\nIndentationError: unexpected indent\n",
+          "traceback": []
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "e1e4520c4828c201d4b0ff7f3a3d07f0",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "070dcc0fe60fa08533d2d77ea744d8b3",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
